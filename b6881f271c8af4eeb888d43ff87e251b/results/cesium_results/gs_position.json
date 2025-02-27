@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "name": "Adelanto, California1",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -117.4092,
+                34.5828,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 1,
+        "name": "Aerzen, Germany1",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                9.1942,
+                52.0102,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 2,
+        "name": "Columbus, Ohio1",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -82.9988,
+                39.9612,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 3,
+        "name": "Conrad, Montana1",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -111.9444,
+                48.1768,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 4,
+        "name": "Marsala, Italy1",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                12.4364,
+                37.7975,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 5,
+        "name": "Marcell, Minnesota1",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -93.7751,
+                47.5547,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    }
+]

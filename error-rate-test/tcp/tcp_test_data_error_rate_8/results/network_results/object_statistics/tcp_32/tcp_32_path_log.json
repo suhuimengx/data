@@ -1,0 +1,15 @@
+{
+    "name": "tcp_32",
+    "path_info": {
+        "max_hop_count": 32,
+        "min_hop_count": 32,
+        "maxdif_hop_count": 0,
+        "path_change_times": 0,
+        "path_hop_count": [
+            32
+        ],
+        "path_hop_count_timestamp_us": [
+            1601861
+        ]
+    }
+}

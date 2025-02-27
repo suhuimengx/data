@@ -1,0 +1,16 @@
+[
+    {
+        "Applicartion ID": 0,
+        "Avg. rate": "1.84 Mbit/s",
+        "Data sent (payload)": "366.71 Mbit",
+        "Duration": "199000.00 ms",
+        "End time": "200000.00 ms",
+        "Finished?": "NO_ONGOING",
+        "From": 1586,
+        "Metadata": "TRACE_TYPE_NEWS",
+        "Progress": "100.0%",
+        "Start time": "1000.00 ms",
+        "Target rate": "2.00 Mbit/s",
+        "To": 1587
+    }
+]

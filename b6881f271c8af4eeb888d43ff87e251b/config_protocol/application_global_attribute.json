@@ -1,0 +1,1 @@
+{"3gpp_http_flow":{"application_enabled":false,"main_object_size_mean_byte":102400,"main_object_size_std_dev_byte":40960},"ftp_flow":{"application_enabled":false},"quic_flow":{"application_enabled":true},"rtp_flow":{"application_enabled":true},"tcp_flow":{"application_enabled":true},"udp_flow":{"application_enabled":true}}

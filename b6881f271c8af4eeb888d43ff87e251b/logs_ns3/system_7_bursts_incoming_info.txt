@@ -1,0 +1,2 @@
+Applicartion ID From      To        Target rate         Start time      Duration        Incoming rate (w/ headers)  Incoming rate (payload)     Packets received   Data received (w/headers)   Data received (payload)     Metadata
+0               1584      1585      2.00 Mbit/s         1000.00 ms      200000.00 ms    1.88 Mbit/s                 1.84 Mbit/s                 34281              374.54 Mbit                 366.86 Mbit                 TRACE_TYPE_NEWS

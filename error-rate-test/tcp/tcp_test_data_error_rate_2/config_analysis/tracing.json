@@ -1,0 +1,14 @@
+{
+  "utilization": {
+    "link_utilization_tracing_enabled": true,
+    "target_device_all": true,
+    "target_device": ["100,1", "101,1", "41,1", "41,2", "41,3", "41,4"],
+    "link_utilization_tracing_interval_ns": 5000000000,
+    "enable_trajectory_tracing": true  
+  },
+  "wireshark": {
+    "wireshark_enabled": false,
+    "wireshark_target_device_all": false,
+    "wireshark_target_device": ["100,1", "101,1"]
+  }
+}

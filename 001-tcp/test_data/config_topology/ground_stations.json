@@ -1,0 +1,52 @@
+{
+  "earth_stations":[
+    {
+      "id": 0, 
+      "name": "Tokyo", 
+      "network": "other", 
+      "latitude": 35.6895, 
+      "longitude": 139.69171, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 1, 
+      "name": "Tokyo1", 
+      "network": "other", 
+      "latitude": 35.6895, 
+      "longitude": 139.69171, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 2, 
+      "name": "Tokyo2", 
+      "network": "other", 
+      "latitude": 35.6895, 
+      "longitude": 139.69171, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 3, 
+      "name": "S\u00e3o-Paulo", 
+      "network": "other", 
+      "latitude": -23.5475, 
+      "longitude": -46.63611, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 4, 
+      "name": "Mumbai-(Bombay)", 
+      "network": "other", 
+      "latitude": 19.073975, 
+      "longitude": 72.880838, 
+      "altitude": 0.0
+    },
+    {
+      "id": 5, 
+      "name": "Shanghai", 
+      "network": "other", 
+      "latitude": 31.22222, 
+      "longitude": 121.45806, 
+      "altitude": 0.0
+    }
+  ]
+}

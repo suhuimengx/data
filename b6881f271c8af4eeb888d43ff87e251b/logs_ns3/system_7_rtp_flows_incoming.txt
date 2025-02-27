@@ -1,0 +1,2 @@
+Applicartion ID From      To        Start time      Duration        Incoming rate (payload)     Packets received   Data received (payload)     Metadata
+0               1587      1588      1000.00 ms      200000.00 ms    1.27 Mbit/s                 25584              252.59 Mbit                 TRACE_TYPE_NEWS

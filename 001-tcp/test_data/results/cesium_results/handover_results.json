@@ -1,0 +1,194 @@
+[
+    {
+        "id": "1584-to-927",
+        "name": "1584 to 927",
+        "polyline": {
+            "arcType": "NONE",
+            "width": 1,
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                }
+            ],
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "references": [
+                    "1584#position",
+                    "927#position"
+                ]
+            }
+        }
+    },
+    {
+        "id": "1585-to-927",
+        "name": "1585 to 927",
+        "polyline": {
+            "arcType": "NONE",
+            "width": 1,
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                }
+            ],
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "references": [
+                    "1585#position",
+                    "927#position"
+                ]
+            }
+        }
+    },
+    {
+        "id": "1586-to-927",
+        "name": "1586 to 927",
+        "polyline": {
+            "arcType": "NONE",
+            "width": 1,
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                }
+            ],
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "references": [
+                    "1586#position",
+                    "927#position"
+                ]
+            }
+        }
+    },
+    {
+        "id": "1587-to-959",
+        "name": "1587 to 959",
+        "polyline": {
+            "arcType": "NONE",
+            "width": 1,
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                }
+            ],
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "references": [
+                    "1587#position",
+                    "959#position"
+                ]
+            }
+        }
+    },
+    {
+        "id": "1588-to-727",
+        "name": "1588 to 727",
+        "polyline": {
+            "arcType": "NONE",
+            "width": 1,
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                }
+            ],
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "references": [
+                    "1588#position",
+                    "727#position"
+                ]
+            }
+        }
+    },
+    {
+        "id": "1589-to-273",
+        "name": "1589 to 273",
+        "polyline": {
+            "arcType": "NONE",
+            "width": 1,
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                }
+            ],
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "references": [
+                    "1589#position",
+                    "273#position"
+                ]
+            }
+        }
+    }
+]

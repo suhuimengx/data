@@ -1,0 +1,455 @@
+{
+  "scps_tp_flows":[
+    {
+      "flow_id": 0,
+      "sender": 0,
+      "receiver": 3,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 1,
+      "sender": 0,
+      "receiver": 3,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 2,
+      "sender": 0,
+      "receiver": 3,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 3,
+      "sender": 1,
+      "receiver": 4,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 4,
+      "sender": 1,
+      "receiver": 4,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 5,
+      "sender": 1,
+      "receiver": 4,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 6,
+      "sender": 2,
+      "receiver": 5,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 7,
+      "sender": 2,
+      "receiver": 5,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 8,
+      "sender": 2,
+      "receiver": 5,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 9,
+      "sender": 3,
+      "receiver": 6,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 10,
+      "sender": 3,
+      "receiver": 6,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 11,
+      "sender": 3,
+      "receiver": 6,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 12,
+      "sender": 4,
+      "receiver": 7,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 13,
+      "sender": 4,
+      "receiver": 7,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 14,
+      "sender": 4,
+      "receiver": 7,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 15,
+      "sender": 5,
+      "receiver": 8,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 16,
+      "sender": 5,
+      "receiver": 8,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 17,
+      "sender": 5,
+      "receiver": 8,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 18,
+      "sender": 6,
+      "receiver": 9,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 19,
+      "sender": 6,
+      "receiver": 9,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 20,
+      "sender": 6,
+      "receiver": 9,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 21,
+      "sender": 7,
+      "receiver": 10,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 22,
+      "sender": 7,
+      "receiver": 10,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 23,
+      "sender": 7,
+      "receiver": 10,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 24,
+      "sender": 8,
+      "receiver": 11,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 25,
+      "sender": 8,
+      "receiver": 11,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 26,
+      "sender": 8,
+      "receiver": 11,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 27,
+      "sender": 9,
+      "receiver": 12,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 28,
+      "sender": 9,
+      "receiver": 12,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 29,
+      "sender": 9,
+      "receiver": 12,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 30,
+      "sender": 10,
+      "receiver": 13,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 31,
+      "sender": 10,
+      "receiver": 13,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 32,
+      "sender": 10,
+      "receiver": 13,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 33,
+      "sender": 11,
+      "receiver": 14,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 34,
+      "sender": 11,
+      "receiver": 14,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 35,
+      "sender": 11,
+      "receiver": 14,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 36,
+      "sender": 12,
+      "receiver": 15,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 37,
+      "sender": 12,
+      "receiver": 15,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 38,
+      "sender": 12,
+      "receiver": 15,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 39,
+      "sender": 13,
+      "receiver": 16,
+      "target_flow_rate_mbps":2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 40,
+      "sender": 13,
+      "receiver": 16,
+      "target_flow_rate_mbps":2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 41,
+      "sender": 13,
+      "receiver": 16,
+      "target_flow_rate_mbps":2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    },
+    {
+      "flow_id": 42,
+      "sender": 14,
+      "receiver": 17,
+      "target_flow_rate_mbps":2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 43,
+      "sender": 14,
+      "receiver": 17,
+      "target_flow_rate_mbps":2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_ED"
+    },
+    {
+      "flow_id": 44,
+      "sender": 14,
+      "receiver": 17,
+      "target_flow_rate_mbps":2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_CHAT"
+    }
+  ]
+}
+      

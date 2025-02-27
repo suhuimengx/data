@@ -1,0 +1,15 @@
+{
+    "name": "scps_tp_39",
+    "path_info": {
+        "max_hop_count": 23,
+        "min_hop_count": 23,
+        "maxdif_hop_count": 0,
+        "path_change_times": 0,
+        "path_hop_count": [
+            23
+        ],
+        "path_hop_count_timestamp_us": [
+            1125400
+        ]
+    }
+}

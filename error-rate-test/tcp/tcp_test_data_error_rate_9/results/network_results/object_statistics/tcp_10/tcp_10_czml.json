@@ -1,0 +1,63 @@
+[
+    {
+        "id": "tcp_10_path_0",
+        "name": "tcp_10_path_0",
+        "description": "",
+        "polyline": {
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:01.132Z",
+                    "boolean": false
+                },
+                {
+                    "interval": "2000-01-01T00:00:01.132Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                },
+                {
+                    "interval": "2000-01-01T00:03:20.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": false
+                }
+            ],
+            "width": 3,
+            "zIndex": 99,
+            "material": {
+                "polylineOutline": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineColor": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineWidth": 5
+                }
+            },
+            "arcType": "NONE",
+            "positions": {
+                "references": [
+                    "1587#position",
+                    "959#position",
+                    "958#position",
+                    "957#position",
+                    "956#position",
+                    "955#position",
+                    "954#position",
+                    "976#position",
+                    "998#position",
+                    "1020#position",
+                    "1042#position",
+                    "1590#position"
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[    0.0 -     0.0] (0.0 s) :: Configure run and logs directory
+[    0.0 -     0.5] (0.5 s) :: Configure simulator
+[    0.5 -     0.5] (0.0 s) :: Setup TCP parameters
+[    0.5 -     0.5] (0.0 s) :: Setup Quic parameters
+[    0.5 -     0.6] (0.1 s) :: Create initial two line element
+[    0.6 -     0.6] (0.0 s) :: Set distributed node system id assignment
+[    0.6 -     1.2] (0.6 s) :: Create satellite objects
+[    1.2 -     1.4] (0.2 s) :: Create ground station objects
+[    1.4 -     4.4] (3.0 s) :: Install Internet stacks
+[    4.4 -    67.5] (63.1 s) :: Create inter-satellite links
+[   67.5 -    78.2] (10.7 s) :: Initialize satellite-to-ground links
+[   78.2 -    78.5] (0.3 s) :: Initialize link propagation delay
+[   78.5 -    78.5] (0.0 s) :: Read SAG application schedule
+[   78.5 -    78.5] (0.0 s) :: Remove previous SAG application log files
+[   78.5 -    78.5] (0.0 s) :: Setup applications on endpoint nodes
+[   78.5 -    78.5] (0.0 s) :: Read flow schedule
+[   78.5 -    78.5] (0.0 s) :: Remove previous flow log files
+[   78.5 -    78.5] (0.0 s) :: Setup traffic TCP flow starter
+[   78.5 -    78.5] (0.0 s) :: Read flow schedule
+[   78.5 -    78.5] (0.0 s) :: Remove previous flow log files
+[   78.5 -    78.5] (0.0 s) :: Setup traffic Quic flow starter
+[   78.5 -    78.5] (0.0 s) :: Read SAG application schedule
+[   78.5 -    78.5] (0.0 s) :: Remove previous flow log files
+[   78.5 -    78.5] (0.0 s) :: Setup applications on endpoint nodes
+[   78.5 -    81.5] (3.0 s) :: Setup ground2satellite routing arbiter on each node
+[   81.5 -    81.6] (0.0 s) :: Initialize ground2satellite routing on each node
+[   81.6 -    84.6] (3.0 s) :: Setup routing arbiter on each satellite node
+[   84.6 -    84.6] (0.0 s) :: Initialize minimum hop routing on each satellite node
+[   84.6 -    84.6] (0.0 s) :: Whatever is between previous timestamp and the simulation run
+[   84.6 -   319.0] (234.5 s) :: Run simulation
+[  319.0 -   319.1] (0.0 s) :: Write application log files
+[  319.1 -   319.1] (0.0 s) :: Write TCP flow log files
+[  319.1 -   319.1] (0.0 s) :: Write QUIC flow log files
+[  319.1 -   319.1] (0.0 s) :: Write RTP flow log files
+[  319.1 -   322.4] (3.4 s) :: Destroy simulator

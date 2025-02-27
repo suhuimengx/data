@@ -1,0 +1,15 @@
+{
+    "name": "tcp_16",
+    "path_info": {
+        "max_hop_count": 21,
+        "min_hop_count": 21,
+        "maxdif_hop_count": 0,
+        "path_change_times": 0,
+        "path_hop_count": [
+            21
+        ],
+        "path_hop_count_timestamp_us": [
+            4251277
+        ]
+    }
+}

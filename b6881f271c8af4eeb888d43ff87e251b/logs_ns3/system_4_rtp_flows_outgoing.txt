@@ -1,0 +1,1 @@
+Applicartion ID From      To        Start time      Duration        Outgoing rate (payload)     Packets sent       Data sent (payload)         Metadata

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "tcp_1_path_0",
+        "name": "tcp_1_path_0",
+        "description": "",
+        "polyline": {
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:01.098Z",
+                    "boolean": false
+                },
+                {
+                    "interval": "2000-01-01T00:00:01.098Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                },
+                {
+                    "interval": "2000-01-01T00:03:20.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": false
+                }
+            ],
+            "width": 3,
+            "zIndex": 99,
+            "material": {
+                "polylineOutline": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineColor": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineWidth": 5
+                }
+            },
+            "arcType": "NONE",
+            "positions": {
+                "references": [
+                    "1585#position",
+                    "927#position",
+                    "905#position",
+                    "883#position",
+                    "861#position",
+                    "839#position",
+                    "817#position",
+                    "795#position",
+                    "773#position",
+                    "751#position",
+                    "729#position",
+                    "728#position",
+                    "727#position",
+                    "1588#position"
+                ]
+            }
+        }
+    }
+]

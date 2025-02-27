@@ -1,0 +1,35 @@
+Configure run and logs directory,256510
+Configure simulator,336807325
+Setup TCP parameters,1344926
+Setup Quic parameters,1061255
+Create initial two line element,65675721
+Set distributed node system id assignment,1464136
+Create satellite objects,740272842
+Create ground station objects,258758918
+Install Internet stacks,3720155423
+Create inter-satellite links,66472273066
+Initialize satellite-to-ground links,10741068106
+Initialize link propagation delay,231899243
+Read SAG application schedule,2681628
+Remove previous SAG application log files,34484
+Setup applications on endpoint nodes,119886466
+Read flow schedule,2251659
+Remove previous flow log files,26912
+Setup traffic TCP flow starter,118606463
+Read flow schedule,2101068
+Remove previous flow log files,23263
+Setup traffic Quic flow starter,7044
+Read SAG application schedule,2230828
+Remove previous flow log files,18274
+Setup applications on endpoint nodes,117987865
+Setup ground2satellite routing arbiter on each node,3038607590
+Initialize ground2satellite routing on each node,19149726
+Setup routing arbiter on each satellite node,3013289369
+Initialize minimum hop routing on each satellite node,20791831
+Whatever is between previous timestamp and the simulation run,126203
+Run simulation,229860904394
+Write application log files,11956414
+Write TCP flow log files,15000476
+Write QUIC flow log files,224340
+Write RTP flow log files,7198424
+Destroy simulator,395341384

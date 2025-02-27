@@ -1,0 +1,13 @@
+[
+    {
+        "Applicartion ID": 0,
+        "From": 1587,
+        "To": 1588,
+        "Start time": "1000.00 ms",
+        "Duration": "200000.00 ms",
+        "Incoming rate (payload)": "1.27 Mbit/s",
+        "Packets received": 25584,
+        "Data received (payload)": "252.59 Mbit",
+        "Metadata": "TRACE_TYPE_NEWS"
+    }
+]

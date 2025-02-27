@@ -1,0 +1,2 @@
+Applicartion ID From      To        Target rate         Start time      Duration        Outgoing rate (w/ headers)  Outgoing rate (payload)     Packets sent    Data sent (w/headers)       Data sent (payload)         Metadata
+0               1584      1585      2.00 Mbit/s         1000.00 ms      200000.00 ms    1.88 Mbit/s                 1.84 Mbit/s                 34291           374.65 Mbit                 366.97 Mbit                 TRACE_TYPE_NEWS

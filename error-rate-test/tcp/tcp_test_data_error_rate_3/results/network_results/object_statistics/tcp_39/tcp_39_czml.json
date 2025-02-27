@@ -1,0 +1,74 @@
+[
+    {
+        "id": "tcp_39_path_0",
+        "name": "tcp_39_path_0",
+        "description": "",
+        "polyline": {
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:04.125Z",
+                    "boolean": false
+                },
+                {
+                    "interval": "2000-01-01T00:00:04.125Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                },
+                {
+                    "interval": "2000-01-01T00:03:20.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": false
+                }
+            ],
+            "width": 3,
+            "zIndex": 99,
+            "material": {
+                "polylineOutline": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineColor": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineWidth": 5
+                }
+            },
+            "arcType": "NONE",
+            "positions": {
+                "references": [
+                    "1597#position",
+                    "1527#position",
+                    "1526#position",
+                    "1548#position",
+                    "1570#position",
+                    "8#position",
+                    "30#position",
+                    "52#position",
+                    "74#position",
+                    "96#position",
+                    "118#position",
+                    "140#position",
+                    "162#position",
+                    "184#position",
+                    "206#position",
+                    "228#position",
+                    "250#position",
+                    "272#position",
+                    "294#position",
+                    "316#position",
+                    "338#position",
+                    "360#position",
+                    "1600#position"
+                ]
+            }
+        }
+    }
+]

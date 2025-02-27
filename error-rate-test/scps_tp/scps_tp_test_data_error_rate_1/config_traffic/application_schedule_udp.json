@@ -1,0 +1,14 @@
+{
+    "udp_flows": [
+        {
+            "flow_id": 0,
+            "sender": 0,
+            "receiver": 3,
+            "target_flow_rate_mbps": 2,
+            "start_time_ns": 1000000000,
+            "duration_time_ns": 219000000000,
+            "code_type": "SYNCODEC_TYPE_PERFECT",
+            "service_type": 0
+        }
+    ]
+}

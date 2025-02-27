@@ -1,0 +1,15 @@
+{
+    "name": "tcp_28",
+    "path_info": {
+        "max_hop_count": 31,
+        "min_hop_count": 31,
+        "maxdif_hop_count": 0,
+        "path_change_times": 0,
+        "path_hop_count": [
+            31
+        ],
+        "path_hop_count_timestamp_us": [
+            4398804
+        ]
+    }
+}

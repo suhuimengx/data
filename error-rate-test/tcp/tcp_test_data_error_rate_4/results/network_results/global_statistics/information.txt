@@ -1,0 +1,5 @@
+Virtual time (s): 200
+All simualtion time (average)(s): 468.69
+Slowdown (real s / virtual s)(s): 2.34
+Run simulation time (average)(s): 371.58
+Slowdown (real s / virtual s)(s): 1.86

@@ -1,0 +1,2 @@
+Applicartion ID From      To        Start time      Duration        Outgoing rate (payload)     Packets sent       Data sent (payload)         Metadata
+0               1587      1588      1000.00 ms      200000.00 ms    1.49 Mbit/s                 29848              295.59 Mbit                 TRACE_TYPE_NEWS

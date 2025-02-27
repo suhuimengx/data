@@ -1,0 +1,18 @@
+[
+    {
+        "Applicartion ID": 0,
+        "Data received (payload)": "366.86 Mbit",
+        "Data sent (payload)": "366.97 Mbit",
+        "Duration": "200000.00 ms",
+        "From": 1584,
+        "Incoming rate (payload)": "1.84 Mbit/s",
+        "Metadata": "TRACE_TYPE_NEWS",
+        "Outgoing rate (payload)": "1.84 Mbit/s",
+        "Packet loss rate": "0.0003",
+        "Packets received": 34281,
+        "Packets sent": 34291,
+        "Start time": "1000.00 ms",
+        "Target rate": "2.00 Mbit/s",
+        "To": 1585
+    }
+]

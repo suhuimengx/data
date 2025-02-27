@@ -1,0 +1,16 @@
+[    0.0 -     0.0] (0.0 s) :: Configure run and logs directory
+[    0.0 -     0.0] (0.0 s) :: Configure simulator
+[    0.0 -     0.0] (0.0 s) :: Setup TCP parameters
+[    0.0 -     0.0] (0.0 s) :: Setup Quic parameters
+[    0.0 -     0.1] (0.1 s) :: Create initial two line element
+[    0.1 -     0.7] (0.7 s) :: Create satellite objects
+[    0.7 -     1.0] (0.3 s) :: Create ground station objects
+[    1.0 -    85.5] (84.5 s) :: Create inter-satellite links
+[   85.5 -    93.0] (7.5 s) :: Initialize satellite-to-ground links
+[   93.0 -    93.8] (0.8 s) :: Initialize link propagation delay
+[   93.8 -    98.4] (4.6 s) :: Setup ground2satellite routing arbiter on each node
+[   98.4 -   102.9] (4.5 s) :: Setup routing arbiter on each satellite node
+[  102.9 -   102.9] (0.0 s) :: Initialize minimum hop routing on each satellite node
+[  102.9 -   102.9] (0.0 s) :: Whatever is between previous timestamp and the simulation run
+[  102.9 -   203.4] (100.5 s) :: Run simulation
+[  203.4 -   218.6] (15.3 s) :: Destroy simulator

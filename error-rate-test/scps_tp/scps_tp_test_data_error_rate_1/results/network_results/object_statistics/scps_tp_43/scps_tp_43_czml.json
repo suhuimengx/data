@@ -1,0 +1,75 @@
+[
+    {
+        "id": "scps_tp_43_path_0",
+        "name": "scps_tp_43_path_0",
+        "description": "",
+        "polyline": {
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:01.231Z",
+                    "boolean": false
+                },
+                {
+                    "interval": "2000-01-01T00:00:01.231Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                },
+                {
+                    "interval": "2000-01-01T00:03:20.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": false
+                }
+            ],
+            "width": 3,
+            "zIndex": 99,
+            "material": {
+                "polylineOutline": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineColor": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineWidth": 5
+                }
+            },
+            "arcType": "NONE",
+            "positions": {
+                "references": [
+                    "1598#position",
+                    "251#position",
+                    "250#position",
+                    "249#position",
+                    "248#position",
+                    "247#position",
+                    "246#position",
+                    "245#position",
+                    "244#position",
+                    "266#position",
+                    "288#position",
+                    "310#position",
+                    "332#position",
+                    "354#position",
+                    "376#position",
+                    "398#position",
+                    "420#position",
+                    "442#position",
+                    "464#position",
+                    "486#position",
+                    "508#position",
+                    "530#position",
+                    "552#position",
+                    "1601#position"
+                ]
+            }
+        }
+    }
+]

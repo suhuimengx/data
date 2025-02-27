@@ -1,0 +1,1 @@
+{"utilization":{"enable_trajectory_tracing":true,"link_utilization_tracing_enabled":true,"link_utilization_tracing_interval_ns":5000000000,"target_device":[],"target_device_all":true},"wireshark":{"target_device_all":false,"wireshark_enabled":false,"wireshark_target_device":[],"wireshark_target_device_all":true}}

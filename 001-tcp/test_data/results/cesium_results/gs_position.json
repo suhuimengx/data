@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "name": "Tokyo",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                139.69171,
+                35.6895,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 1,
+        "name": "Tokyo1",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                139.69171,
+                35.6895,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 2,
+        "name": "Tokyo2",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                139.69171,
+                35.6895,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 3,
+        "name": "São-Paulo",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -46.63611,
+                -23.5475,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mumbai-(Bombay)",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                72.880838,
+                19.073975,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 5,
+        "name": "Shanghai",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:03:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                121.45806,
+                31.22222,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    }
+]

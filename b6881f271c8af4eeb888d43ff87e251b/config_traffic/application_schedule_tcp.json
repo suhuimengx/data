@@ -1,0 +1,1 @@
+{"tcp_flows":[{"code_type":"SYNCODEC_TYPE_TRACE","duration_time_ns":200000000000,"flow_id":0,"receiver":3,"sender":2,"service_type":"TRACE_TYPE_NEWS","start_time_ns":1000000000,"target_flow_rate_mbps":2}]}

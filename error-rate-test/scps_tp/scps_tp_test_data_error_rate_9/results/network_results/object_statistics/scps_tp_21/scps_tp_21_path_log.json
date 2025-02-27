@@ -1,0 +1,15 @@
+{
+    "name": "scps_tp_21",
+    "path_info": {
+        "max_hop_count": 20,
+        "min_hop_count": 20,
+        "maxdif_hop_count": 0,
+        "path_change_times": 0,
+        "path_hop_count": [
+            20
+        ],
+        "path_hop_count_timestamp_us": [
+            1468043
+        ]
+    }
+}

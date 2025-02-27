@@ -1,0 +1,86 @@
+[
+    {
+        "id": "tcp_14_path_0",
+        "name": "tcp_14_path_0",
+        "description": "",
+        "polyline": {
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:04.316Z",
+                    "boolean": false
+                },
+                {
+                    "interval": "2000-01-01T00:00:04.316Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                },
+                {
+                    "interval": "2000-01-01T00:03:20.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": false
+                }
+            ],
+            "width": 3,
+            "zIndex": 99,
+            "material": {
+                "polylineOutline": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineColor": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineWidth": 5
+                }
+            },
+            "arcType": "NONE",
+            "positions": {
+                "references": [
+                    "1588#position",
+                    "727#position",
+                    "705#position",
+                    "683#position",
+                    "661#position",
+                    "639#position",
+                    "617#position",
+                    "595#position",
+                    "573#position",
+                    "551#position",
+                    "529#position",
+                    "507#position",
+                    "485#position",
+                    "463#position",
+                    "441#position",
+                    "419#position",
+                    "397#position",
+                    "375#position",
+                    "353#position",
+                    "331#position",
+                    "309#position",
+                    "287#position",
+                    "265#position",
+                    "243#position",
+                    "221#position",
+                    "199#position",
+                    "200#position",
+                    "201#position",
+                    "202#position",
+                    "203#position",
+                    "204#position",
+                    "205#position",
+                    "206#position",
+                    "207#position",
+                    "1591#position"
+                ]
+            }
+        }
+    }
+]

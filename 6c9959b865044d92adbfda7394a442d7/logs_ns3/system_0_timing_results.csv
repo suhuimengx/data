@@ -1,0 +1,16 @@
+Configure run and logs directory,185100
+Configure simulator,4812390
+Setup TCP parameters,1248933
+Setup Quic parameters,815818
+Create initial two line element,53504572
+Create satellite objects,680654245
+Create ground station objects,250811963
+Create inter-satellite links,84510049270
+Initialize satellite-to-ground links,7541917982
+Initialize link propagation delay,770356409
+Setup ground2satellite routing arbiter on each node,4551792787
+Setup routing arbiter on each satellite node,4539465458
+Initialize minimum hop routing on each satellite node,2497628
+Whatever is between previous timestamp and the simulation run,149375
+Run simulation,100476764343
+Destroy simulator,15260255464

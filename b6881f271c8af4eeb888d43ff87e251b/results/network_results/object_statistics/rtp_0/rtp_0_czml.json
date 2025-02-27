@@ -1,0 +1,84 @@
+[
+    {
+        "id": "rtp_0_path_0",
+        "name": "rtp_0_path_0",
+        "description": "",
+        "polyline": {
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:01.065Z",
+                    "boolean": false
+                },
+                {
+                    "interval": "2000-01-01T00:00:01.065Z/2000-01-01T00:03:20.000Z",
+                    "boolean": true
+                },
+                {
+                    "interval": "2000-01-01T00:03:20.000Z/2000-01-01T00:03:20.000Z",
+                    "boolean": false
+                }
+            ],
+            "width": 3,
+            "zIndex": 99,
+            "material": {
+                "polylineOutline": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineColor": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineWidth": 5
+                }
+            },
+            "arcType": "NONE",
+            "positions": {
+                "references": [
+                    "1587#position",
+                    "1193#position",
+                    "1192#position",
+                    "1214#position",
+                    "1236#position",
+                    "1258#position",
+                    "1280#position",
+                    "1302#position",
+                    "1324#position",
+                    "1346#position",
+                    "1368#position",
+                    "1390#position",
+                    "1412#position",
+                    "1434#position",
+                    "1456#position",
+                    "1478#position",
+                    "1500#position",
+                    "1522#position",
+                    "1544#position",
+                    "1566#position",
+                    "4#position",
+                    "26#position",
+                    "48#position",
+                    "70#position",
+                    "92#position",
+                    "114#position",
+                    "136#position",
+                    "158#position",
+                    "180#position",
+                    "202#position",
+                    "224#position",
+                    "246#position",
+                    "1588#position"
+                ]
+            }
+        }
+    }
+]
