@@ -1,0 +1,3 @@
+SCPSTP Flow ID  Source    Target    Size (MbpS)     Start time (ns)   End time (ns)     Duration        Sent            Progress     Avg. rate       Finished?     Metadata
+0               1584      1585      2.00 Mbit/s     1000000000        200000000000      199000.00 ms    397.87 Mbit     100.0%       2.00 Mbit/s     NO_ONGOING    0
+1               1585      1588      2.00 Mbit/s     1000000000        200000000000      199000.00 ms    366.70 Mbit     100.0%       1.84 Mbit/s     NO_ONGOING    TRACE_TYPE_NEWS

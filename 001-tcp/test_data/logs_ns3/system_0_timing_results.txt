@@ -1,0 +1,21 @@
+[    0.0 -     0.0] (0.0 s) :: Configure run and logs directory
+[    0.0 -     0.0] (0.0 s) :: Configure simulator
+[    0.0 -     0.1] (0.1 s) :: Create initial two line element
+[    0.1 -     0.3] (0.3 s) :: Create satellite objects
+[    0.3 -     0.4] (0.1 s) :: Create ground station objects
+[    0.4 -     2.1] (1.6 s) :: Install Internet stacks
+[    2.1 -    37.0] (34.9 s) :: Create inter-satellite links
+[   37.0 -    42.5] (5.5 s) :: Initialize satellite-to-ground links
+[   42.5 -    42.9] (0.4 s) :: Initialize link propagation delay
+[   42.9 -    42.9] (0.0 s) :: Setup TCP parameters
+[   42.9 -    42.9] (0.0 s) :: Read flow schedule
+[   42.9 -    42.9] (0.0 s) :: Remove previous flow log files
+[   42.9 -    43.1] (0.1 s) :: Setup traffic TCP flow starter
+[   43.1 -    44.8] (1.7 s) :: Setup ground2satellite routing arbiter on each node
+[   44.8 -    44.8] (0.0 s) :: Initialize ground2satellite routing on each node
+[   44.8 -    46.5] (1.7 s) :: Setup routing arbiter on each satellite node
+[   46.5 -    46.5] (0.0 s) :: Initialize minimum hop routing on each satellite node
+[   46.5 -    46.5] (0.0 s) :: Whatever is between previous timestamp and the simulation run
+[   46.5 -   111.2] (64.7 s) :: Run simulation
+[  111.2 -   111.2] (0.0 s) :: Write TCP flow log files
+[  111.2 -   114.8] (3.6 s) :: Destroy simulator

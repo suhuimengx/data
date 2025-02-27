@@ -1,0 +1,21 @@
+[    0.0 -     0.0] (0.0 s) :: Configure run and logs directory
+[    0.0 -     0.0] (0.0 s) :: Configure simulator
+[    0.0 -     0.2] (0.2 s) :: Create initial two line element
+[    0.2 -     0.4] (0.2 s) :: Create satellite objects
+[    0.4 -     0.5] (0.1 s) :: Create ground station objects
+[    0.5 -     2.0] (1.5 s) :: Install Internet stacks
+[    2.0 -    22.6] (20.6 s) :: Create inter-satellite links
+[   22.6 -    28.7] (6.2 s) :: Initialize satellite-to-ground links
+[   28.7 -    29.1] (0.3 s) :: Initialize link propagation delay
+[   29.1 -    29.2] (0.1 s) :: Setup SCPSTP parameters
+[   29.2 -    29.2] (0.0 s) :: Read flow schedule
+[   29.2 -    29.2] (0.0 s) :: Remove previous flow log files
+[   29.2 -    90.8] (61.7 s) :: Setup traffic SCPSTP flow starter
+[   90.8 -    91.7] (0.9 s) :: Setup ground2satellite routing arbiter on each node
+[   91.7 -    91.7] (0.0 s) :: Initialize ground2satellite routing on each node
+[   91.7 -    92.6] (0.9 s) :: Setup routing arbiter on each satellite node
+[   92.6 -    92.6] (0.0 s) :: Initialize minimum hop routing on each satellite node
+[   92.6 -    95.1] (2.5 s) :: Whatever is between previous timestamp and the simulation run
+[   95.1 -  2568.8] (2473.7 s) :: Run simulation
+[ 2568.8 -  2568.8] (0.1 s) :: Write SCPSTP flow log files
+[ 2568.8 -  2572.6] (3.7 s) :: Destroy simulator

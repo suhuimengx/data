@@ -1,0 +1,21 @@
+Configure run and logs directory,409084
+Configure simulator,4346822
+Create initial two line element,43266000
+Create satellite objects,273724149
+Create ground station objects,109842749
+Install Internet stacks,1646074490
+Create inter-satellite links,34707404633
+Initialize satellite-to-ground links,6086397079
+Initialize link propagation delay,429323908
+Setup SCPSTP parameters,156273671
+Read flow schedule,6652495
+Remove previous flow log files,98347
+Setup traffic SCPSTP flow starter,81156112
+Setup ground2satellite routing arbiter on each node,1733004675
+Initialize ground2satellite routing on each node,10058060
+Setup routing arbiter on each satellite node,1737278857
+Initialize minimum hop routing on each satellite node,9812190
+Whatever is between previous timestamp and the simulation run,53494
+Run simulation,77444723090
+Write SCPSTP flow log files,15151889
+Destroy simulator,3738226419

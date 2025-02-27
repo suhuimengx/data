@@ -1,0 +1,21 @@
+Configure run and logs directory,223282
+Configure simulator,3298330
+Create initial two line element,60811085
+Create satellite objects,265427270
+Create ground station objects,115259709
+Install Internet stacks,1643470707
+Create inter-satellite links,34897235183
+Initialize satellite-to-ground links,5538801017
+Initialize link propagation delay,407789039
+Setup TCP parameters,2092933
+Read flow schedule,3288642
+Remove previous flow log files,103080
+Setup traffic TCP flow starter,134354650
+Setup ground2satellite routing arbiter on each node,1688516696
+Initialize ground2satellite routing on each node,19690138
+Setup routing arbiter on each satellite node,1671028750
+Initialize minimum hop routing on each satellite node,10069878
+Whatever is between previous timestamp and the simulation run,61289
+Run simulation,64704419721
+Write TCP flow log files,11134720
+Destroy simulator,3600082271

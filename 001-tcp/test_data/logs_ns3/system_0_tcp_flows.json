@@ -1,0 +1,30 @@
+[
+    {
+        "Applicartion ID": 0,
+        "From": 1584,
+        "To": 1585,
+        "Target rate": "2.00 Mbit/s",
+        "Start time": "1000.00 ms",
+        "End time": "200000.00 ms",
+        "Duration": "199000.00 ms",
+        "Data sent (payload)": "366.91 Mbit",
+        "Progress": "100.0%",
+        "Avg. rate": "1.84 Mbit/s",
+        "Finished?": "NO_ONGOING",
+        "Metadata": "TRACE_TYPE_NEWS"
+    },
+    {
+        "Applicartion ID": 1,
+        "From": 1585,
+        "To": 1588,
+        "Target rate": "2.00 Mbit/s",
+        "Start time": "1000.00 ms",
+        "End time": "200000.00 ms",
+        "Duration": "199000.00 ms",
+        "Data sent (payload)": "245.95 Mbit",
+        "Progress": "67.0%",
+        "Avg. rate": "1.24 Mbit/s",
+        "Finished?": "NO_ONGOING",
+        "Metadata": "TRACE_TYPE_NEWS"
+    }
+]
